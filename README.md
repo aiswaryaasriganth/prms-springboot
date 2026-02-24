@@ -41,9 +41,9 @@ src/main/java
 
 Standard Maven directory structure:
 
-src/main/java      → Application source code
-src/test/java      → Test classes
-pom.xml            → Maven configuration
+- src/main/java      → Application source code
+- src/test/java      → Test classes
+- pom.xml            → Maven configuration
 
 ## API Endpoints
 
